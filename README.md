@@ -3,3 +3,4 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
 - Can take **any** public YouTube song playlist and move it to Spotify (not just liked videos)
 - Loops through to include **every** song on the playlist (not just first n results)
 - You don't have to go through the confusing/difficult process of authorizing a YouTube account (uses publically available information)
+- Uses Facebook's web crawler for more reliability
