@@ -1,7 +1,8 @@
 # Turn any public YouTube playlist into a Spotify playlist
-<p align="left">
-  <img width="600" height="250" src="https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGif.gif">
-</p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Image]https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGif.gif)  |  ![](https://...Ocean.png)
+
 
 This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=7J_qcttfnJA) that took a person's "liked video" playlist on YouTube and turned it into a Spotify playlist. The difference between [TheComeUp's project](https://github.com/TheComeUpCode/SpotifyGeneratePlaylist) and this project is: 
 - Can take **any** public YouTube song playlist and move it to Spotify (not just liked videos)
