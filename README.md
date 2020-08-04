@@ -22,7 +22,7 @@ This project is based on [TheComeUp's tutorial](https://www.youtube.com/watch?v=
    ```
    pip3 install -r requirements.txt
    ```
-   or if using [PyCharm IDE](https://www.jetbrains.com/pycharm/), it will ask you to install the dependencies automatically.
+   or use the [PyCharm IDE](https://www.jetbrains.com/pycharm/) and it will ask you to install the dependencies automatically.
 
 2. Add your Spotify User ID and Oauth Token from Spotfiy to the secrets.py file
    * Your Spotify User ID is just the username you created your Spotify account as
