@@ -2,7 +2,7 @@
 This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=7J_qcttfnJA) that took a person's "liked video" playlist on YouTube and turned it into a Spotify playlist. The difference between [TheComeUp's project](https://github.com/TheComeUpCode/SpotifyGeneratePlaylist) and this project is: 
 - Can take **any** public YouTube song playlist and move it to Spotify (not just liked videos)
 - Loops through to include **every** song on the playlist
-- Uses publically available information - you don't have to go through the confusing/difficult process of authorizing a YouTube account 
+- Uses publically available information - you don't have to go through the more confusing/difficult process of authorizing your YouTube account 
 - Uses Facebook's web crawler for better reliability
 
 ## Technologies 
@@ -22,3 +22,5 @@ or if using [PyCharm IDE](https://www.jetbrains.com/pycharm/), it will ask you t
 2. Add your Spotify User ID and Oauth Token from Spotfiy to the secrets.py file
    * Your Spotify User ID is just the name you created your Spotify account
    * To get your Spotify Oauth token visit this url here: [Get Oauth](https://developer.spotify.com/console/post-playlists/) and click the Get Token button
+3. Enable Oauth For Youtube and download the client_secrets.json
+   * You can follow [this tutorial](https://www.youtube.com/watch?v=V4KqpIX6pdI&t) and YouTube's own [guide](https://developers.google.com/youtube/v3/getting-started/) 
