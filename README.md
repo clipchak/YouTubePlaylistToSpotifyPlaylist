@@ -14,7 +14,7 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
 
 ## Setup
 1. Install Dependencies 
-'''
+```
 pip3 install -r requirements.txt
-'''
+```
 or if using [PyCharm IDE](https://www.jetbrains.com/pycharm/), it will ask you to install the dependencies automatically.
