@@ -20,4 +20,4 @@ pip3 install -r requirements.txt
 or if using [PyCharm IDE](https://www.jetbrains.com/pycharm/), it will ask you to install the dependencies automatically.
 
 2. Add your Spotify User ID and Oauth Token from Spotfiy to the secrets.py file
-  * Your Spotify User ID is just the name you used to make your Spotify account
+   * Your Spotify User ID is just the name you used to make your Spotify account
