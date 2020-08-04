@@ -42,7 +42,7 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
    ```
    python3 create_playlist.py
    ```
-   * it should run automatically and print the songs as it loops through the playlist
+   * it should run automatically and print the songs as it loops through the playlist (see gif above) 
    * check your spotify account and the playlist should be there. **Not all songs will be available on Spotify **
    
 ## TODO
