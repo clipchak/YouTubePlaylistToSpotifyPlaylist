@@ -1,5 +1,5 @@
 # Turn any public YouTube playlist into a Spotify playlist
-<p align="center">
+<p align="left">
   <img width="600" height="250" src="https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGif.gif">
 </p>
 
