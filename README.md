@@ -40,4 +40,4 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
 - Add user input to customize the name of the playlist that goes to Spotify
 
 ## Troubleshooting
-- If you are given a KeyError, it is probably because your Spotify Oauth token expired. Refer to the second bulletpoint of step 2 and paste in a new token to your program
+- If you are given a ```KeyError```, it is probably because your Spotify Oauth token expired. Refer to the second bulletpoint of Step 2 in Setup and paste in a new token to your program
