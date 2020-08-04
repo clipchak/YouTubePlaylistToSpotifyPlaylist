@@ -10,3 +10,4 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [Requests Library](https://requests.readthedocs.io/en/master/)
 - [Youtube_dl v 2020.7.28](https://github.com/ytdl-org/youtube-dl/)
+- [The Facebook Crawler](https://developers.facebook.com/docs/sharing/webmasters/crawler/)
