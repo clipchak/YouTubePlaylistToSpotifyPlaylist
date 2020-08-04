@@ -34,3 +34,10 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
    ```
    * it should run automatically and print the songs as it loops through the playlist
    * check your spotify account and the playlist should be there. **Not all songs will be available on Spotify **
+   
+## TODO
+- Add user input to paste a link to a playlist
+- Add user input to customize the name of the playlist that goes to Spotify
+
+## Troubleshooting
+- If you are given a KeyError, it is probably because your Spotify Oauth token expired. Refer to the second bulletpoint of step 2 and paste in a new token to your program
