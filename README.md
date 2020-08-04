@@ -1,6 +1,6 @@
 # Turn any public YouTube playlist into a Spotify playlist
 Running Program            | Resulting Spotify Playlist 
-:----------------------------:|:----------------------------:
+:---------------------------------:|:---------------------------------:
 ![Image](https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGif.gif)  |  ![Image](https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGifSpotify.gif)
 
 
