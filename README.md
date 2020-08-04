@@ -41,3 +41,4 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
 
 ## Troubleshooting
 - If you are given a ```KeyError```, it is probably because your Spotify Oauth token expired. Refer to the second bulletpoint of Step 2 in Setup and paste in a new token to your program
+- If a certain song wasn't added from the YouTube playlist to the Spotify playlist, it is because the song was either not available on Spotify or the creator of the YouTube video did not put the correct information in the video's metadata. 
