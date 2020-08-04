@@ -14,9 +14,9 @@ This project is based on [TheComeUp's Tutorial](https://www.youtube.com/watch?v=
 
 ## Setup
 1. Install Dependencies 
-```
-pip3 install -r requirements.txt
-```
+   ```
+    pip3 install -r requirements.txt
+   ```
    or if using [PyCharm IDE](https://www.jetbrains.com/pycharm/), it will ask you to install the dependencies automatically.
 
 2. Add your Spotify User ID and Oauth Token from Spotfiy to the secrets.py file
@@ -24,7 +24,11 @@ pip3 install -r requirements.txt
    * To get your Spotify Oauth token visit this url here: [Get Oauth](https://developer.spotify.com/console/post-playlists/) and click the Get Token button
 3. Enable Oauth For Youtube and download the client_secrets.json
    * You can follow [this tutorial](https://www.youtube.com/watch?v=V4KqpIX6pdI&t) and YouTube's own [guide](https://developers.google.com/youtube/v3/getting-started/). All you need is the basic API key and not the OAuth 2.0 Client ID. Once you collect it, put it in the secrets.py file.
-4. Find a YouTube playlist and collect its ID. Put this ID in the create_playlist.py file in the get_playlist_videos function where it says 
-```
-playlistId = "INSERT ANY PUBLIC YOUTUBE SONG PLAYLIST ID",
-```
+4. Find a YouTube playlist and collect its ID. Put this ID in the create_playlist.py file in the get_playlist_videos function where it says:
+   ```
+    playlistId = "INSERT ANY PUBLIC YOUTUBE SONG PLAYLIST ID",
+   ```
+5. Run the file 
+   ```
+   python3 create_playlist.py
+   ```
