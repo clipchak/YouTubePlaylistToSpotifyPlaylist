@@ -4,10 +4,9 @@ Running Program            | Resulting Spotify Playlist
 ![Image](https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGif.gif)  |  ![Image](https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGifSpotify.gif)
 
 
-This project is based on [TheComeUp's tutorial](https://www.youtube.com/watch?v=7J_qcttfnJA) that took a person's "liked video" playlist on YouTube and turned it into a Spotify playlist. The difference between [TheComeUp's project](https://github.com/TheComeUpCode/SpotifyGeneratePlaylist) and this project is: 
-- Can take **any** public YouTube song playlist and immediately move it to Spotify (not just liked videos)
-- Loops through to include **every** song on the playlist (even 100+ song playlists)
-- Uses publically available information - you don't have to go through the more confusing/difficult process of authorizing your YouTube account 
+A python script that turns any public YouTube playlist into a Spotify playlist 
+- Can take any public YouTube song playlist and immediately move it to Spotify 
+- Loops through to include every song on the playlist 
 - Uses Facebook's web crawler for better reliability
 
 ## Technologies 
