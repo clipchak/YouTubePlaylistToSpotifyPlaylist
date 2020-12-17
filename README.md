@@ -4,7 +4,7 @@ Running Program            | Resulting Spotify Playlist
 ![Image](https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGif.gif)  |  ![Image](https://github.com/clipchak/YouTubePlaylistToSpotifyPlaylist/blob/master/images/workingGifSpotify.gif)
 
 
-A python script that turns any public YouTube playlist into a Spotify playlist 
+A python script that turns any public YouTube playlist into a Spotify playlist. This project is an improved version of the project shown in this [video](https://www.youtube.com/watch?v=7J_qcttfnJA)
 - Can take any public YouTube song playlist and immediately move it to Spotify 
 - Loops through to include every song on the playlist 
 - Uses Facebook's web crawler for better reliability
